@@ -1,0 +1,3 @@
+aiogram
+pymorphy2
+aiosqlite
