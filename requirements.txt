@@ -2,7 +2,6 @@ aiogram
 pymorphy2
 aiosqlite
 asyncio
-re
 typing
 contextlib
 datetime
