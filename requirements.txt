@@ -1,7 +1,3 @@
 aiogram
 pymorphy2
 aiosqlite
-asyncio
-typing
-contextlib
-datetime
